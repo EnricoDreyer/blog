@@ -5,4 +5,10 @@
 	Overwriting Default Theme Styles for Better Handling Updates
 -----------------------------------------------------------------*/
 
+.profile-container-padding{
+	padding-bottom: 80px;
+}
 
+.profile-image-border-radius{
+	border-radius: 10px;
+}
