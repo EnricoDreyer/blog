@@ -6677,6 +6677,7 @@ body:not(.has-plugin-html5video) .video-wrap video {
 
 .content-wrap {
 	position: relative;
+	padding-top: 80px;
 	overflow: hidden;
 }
 
